@@ -1,0 +1,2 @@
+# newDesignPattern
+# newDesignPattern
