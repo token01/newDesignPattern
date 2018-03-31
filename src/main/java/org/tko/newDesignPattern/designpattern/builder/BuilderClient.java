@@ -1,8 +1,8 @@
 package org.tko.newDesignPattern.designpattern.builder;
 
 /**
- * 建造客户端
- * 
+ * 设计模式-建造者模式（build）
+ * http://www.cnblogs.com/lwbqqyumidi/p/3742562.html
  * @author abel-sun
  *
  */

@@ -1,21 +1,21 @@
 package org.tko.newDesignPattern.designpattern.factory.abstraction;
 
-import designpattern.factory.simple.Operation;
+
+import org.tko.newDesignPattern.designpattern.factory.simple.Operation;
 
 /**
  * 客户端
- * 
- * @author abel-sun
  *
+ * @author abel-sun
  */
 public class Client {
     public static void main(String[] args) throws InstantiationException,
-	    IllegalAccessException {
-	Operation operation = OperationFactory.createOperation("/");
+            IllegalAccessException {
+        Operation operation = OperationFactory.createOperation("/");
 
-	operation.numberA = 7;
-	operation.numberB = 8;
+        operation.numberA = 7;
+        operation.numberB = 8;
 
-	System.out.println(operation.result());
+        System.out.println(operation.result());
     }
 }

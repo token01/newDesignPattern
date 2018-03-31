@@ -7,6 +7,7 @@ package org.tko.newDesignPattern.designpattern.factory.simple;
  *
  */
 public class OperationFactory {
+
     public static Operation createOperation(char operator) {
 	Operation operation = null;
 

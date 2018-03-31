@@ -4,6 +4,9 @@ interface Generator<T> {
 	T next();
 }
 
+/**
+ * @author abel-sun
+ */
 public class Fibonacci implements Generator<Integer> {
 
 	private int count = 0;

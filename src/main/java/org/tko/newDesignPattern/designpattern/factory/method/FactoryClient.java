@@ -1,6 +1,7 @@
 package org.tko.newDesignPattern.designpattern.factory.method;
 
-import designpattern.factory.simple.Operation;
+
+import org.tko.newDesignPattern.designpattern.factory.simple.Operation;
 
 /**
  * 工厂方法客户端

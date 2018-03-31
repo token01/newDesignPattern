@@ -2,7 +2,7 @@ package org.tko.newDesignPattern.designpattern.flyweight;
 
 /**
  * 客户端
- * 
+ * 享元设计模式
  * @author abel-sun
  *
  */

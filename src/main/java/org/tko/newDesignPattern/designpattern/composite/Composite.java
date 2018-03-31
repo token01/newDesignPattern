@@ -1,9 +1,10 @@
 package org.tko.newDesignPattern.designpattern.composite;
 
+import org.tko.newDesignPattern.util.StringUtil;
+
 import java.util.ArrayList;
 import java.util.List;
 
-import util.StringUtil;
 
 /**
  * 定义有枝节点行为，用来存储子部件

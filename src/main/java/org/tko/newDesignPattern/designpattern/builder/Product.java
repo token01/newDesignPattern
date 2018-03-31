@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 产品类，由多个部件组成
+ * 定义产品   产品类，由多个部件组成
  * 
  * @author abel-sun
  *

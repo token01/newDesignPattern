@@ -1,19 +1,16 @@
 package org.tko.newDesignPattern.designpattern.factory.method;
 
-import designpattern.factory.simple.Operation;
-import designpattern.factory.simple.OperationAdd;
-import designpattern.factory.simple.OperationDiv;
-import designpattern.factory.simple.OperationMul;
-import designpattern.factory.simple.OperationSub;
+
+import org.tko.newDesignPattern.designpattern.factory.simple.*;
 
 /**
- * 工厂接口
+ * concurrency-工厂接口
  * 
  * @author abel-sun
  *
  */
 public interface IFactory {
-    public Operation createOperation();
+    Operation createOperation();
 }
 
 class AddFactory implements IFactory {

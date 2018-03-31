@@ -2,6 +2,7 @@ package org.tko.newDesignPattern.designpattern.composite;
 
 /**
  * 客户端。通过Component接口操作组合部件的对象
+ * 组合模式
  * 
  * @author abel-sun
  *

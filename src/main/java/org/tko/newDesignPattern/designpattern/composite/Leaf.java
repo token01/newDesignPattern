@@ -1,6 +1,6 @@
 package org.tko.newDesignPattern.designpattern.composite;
 
-import util.StringUtil;
+import org.tko.newDesignPattern.util.StringUtil;
 
 /**
  * Leaf在组合中表示叶节点对象，叶节点没有子节点

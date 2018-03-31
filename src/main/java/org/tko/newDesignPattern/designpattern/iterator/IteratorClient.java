@@ -1,8 +1,8 @@
 package org.tko.newDesignPattern.designpattern.iterator;
 
 /**
- * 迭代器客户端
- * 
+ * 设计模式-迭代器客户端
+ *
  * @author abel-sun
  *
  */

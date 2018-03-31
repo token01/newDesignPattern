@@ -1,7 +1,8 @@
 package org.tko.newDesignPattern.designpattern.iterator;
 
 /**
- * 具体迭代器类，给出一种具体迭代的实现方式。思考：迭代器表示的是一种迭代的行为，而聚集则是真正要被迭代的数据集合。
+ * 具体迭代器类，给出一种具体迭代的实现方式。
+ * 思考：迭代器表示的是一种迭代的行为，而聚集则是真正要被迭代的数据集合。
  * 之所以要将迭代器和聚集分开，就是为了将行为与数据分开。 可类比Java中Iterator与Iterable的关系进行理解
  * 
  * @author abel-sun
